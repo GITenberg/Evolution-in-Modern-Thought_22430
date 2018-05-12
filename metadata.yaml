@@ -4,7 +4,7 @@ contributor:
   contributors:
   - agent_name: Bury, J. B. (John Bagnell)
     alias: Bury, John Bagnell
-    birthdate: &id001 1861
+    birthdate: 1861
     deathdate: 1927
     gutenberg_agent_id: '1506'
     url: http://www.gutenberg.org/2009/agents/1506
@@ -25,7 +25,7 @@ contributor:
     wikipedia: http://fr.wikipedia.org/wiki/C%C3%A9lestin_Bougl%C3%A9
   - agent_name: Bateson, William
     alias: Bateson, W. (William)
-    birthdate: *id001
+    birthdate: 1861
     deathdate: 1926
     gutenberg_agent_id: '33456'
     url: http://www.gutenberg.org/2009/agents/33456
@@ -34,14 +34,14 @@ contributor:
     aliases:
     - Weismann, Friedrich Leopold August
     - Weismann, A. (August)
-    birthdate: &id002 1834
+    birthdate: 1834
     deathdate: 1914
     gutenberg_agent_id: '25331'
     url: http://www.gutenberg.org/2009/agents/25331
     wikipedia: http://en.wikipedia.org/wiki/August_Weismann
   - agent_name: Thomson, J. Arthur (John Arthur)
     alias: Thomson, John Arthur
-    birthdate: *id001
+    birthdate: 1861
     deathdate: 1933
     gutenberg_agent_id: '9286'
     url: http://www.gutenberg.org/2009/agents/9286
@@ -72,7 +72,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Harald_H%C3%B8ffding
   - agent_name: Haeckel, Ernst
     alias: Haeckel, Ernst Heinrich Philipp August
-    birthdate: *id002
+    birthdate: 1834
     deathdate: 1919
     gutenberg_agent_id: '2037'
     url: http://www.gutenberg.org/2009/agents/2037
@@ -81,6 +81,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22430#Evolution-in-Modern-Thought
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-08-29'
 gutenberg_type: Text
