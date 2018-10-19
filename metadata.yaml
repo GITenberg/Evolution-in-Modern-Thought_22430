@@ -95,6 +95,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QH'
 - !lcsh 'Evolution (Biology)'
+- GITenberg
 tableOfContents: Darwin's predecessors, by J.A. Thomson -- The selection theory, by
   A. Weismann -- Heredity and variation in modern lights, by W. Bateson -- "The descent
   of man," by G. Schwalbe -- Charles Darwin as an anthropologist, by E. Haeckel --
